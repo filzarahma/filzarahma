@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # 💫 About Me:
 🎖️ Google Bangkit 2023 Batch 1 Awardee<br>🎓 Fresh graduate in Informatics from Telkom University<br>🔬 Former Research Assistant at the Center of Excellence for AI in Learning & Optimization<br>🏆 Top 3 Finalist in National Scientific Writing Competition on AI for Agriculture<br>💻 Proficient in Python and TensorFlow, with a passion for Machine Learning<br>🤝 Open to collaborations on NLP and computer vision projects<br>📧 Feel free to reach out: filzarahmamuflihah@gmail.com
 
